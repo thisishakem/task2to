@@ -15,7 +15,7 @@ function App() {
             The simple, intuitive way to manage your tasks. Stay organized, focused, and accomplish more every day.
           </p>
           <div className="flex justify-center gap-4 animate-slide-up-delay-2">
-<a href="https://just2d.vercel.app/" target="_blank" rel="noopener noreferrer">
+<a href="mytask2do.vercel.app" target="_blank" rel="noopener noreferrer">
   <button className="bg-purple-500 text-white px-8 py-3 rounded-lg font-semibold hover:bg-purple-600 hover:scale-105 transition-all duration-300 flex items-center gap-2 hover:gap-3">
     Get Started <ArrowRight className="w-5 h-5 transition-transform" />
   </button>
@@ -106,15 +106,15 @@ function App() {
                 </div>
               </div>
             </div>
-            /*<div className="relative">
-              <div className="absolute inset-0 bg-gradient-to-t from-gray-900 to-transparent z-10 md:hidden"></div>
-             <img
-  src="/cover.png"
-  alt="Task2Do Mobile App"
-  className="rounded-lg shadow-2xl ring-1 ring-purple-400/20 transform hover:scale-105 transition-transform duration-500"
-/>*/
+//            /* <div className="relative">
+//             <div className="absolute inset-0 bg-gradient-to-t from-gray-900 to-transparent z-10 md:hidden"></div>
+//             <img
+//  src="/cover.png"
+//  alt="Task2Do Mobile App"
+//  className="rounded-lg shadow-2xl ring-1 ring-purple-400/20 transform hover:scale-105 transition-transform duration-500"
+/> 
 
-            </div>
+            </div>*/
           </div>
         </div>
       </div>
@@ -128,7 +128,8 @@ function App() {
           <p className="text-purple-100 mb-8 max-w-2xl mx-auto">
             Join thousands of users who have transformed their productivity with Task2Do.
           </p>
-<a href="https://just2d.vercel.app/" target="_blank" rel="noopener noreferrer">
+<a href="mytask2do.vercel.app
+" target="_blank" rel="noopener noreferrer">
   <button className="bg-purple-500 text-white px-8 py-3 rounded-lg font-semibold hover:bg-purple-600 hover:scale-105 transition-all duration-300 flex items-center gap-2 hover:gap-3">
     Get Started <ArrowRight className="w-5 h-5 transition-transform" />
   </button>
