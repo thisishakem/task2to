@@ -15,7 +15,7 @@ function App() {
             The simple, intuitive way to manage your tasks. Stay organized, focused, and accomplish more every day.
           </p>
           <div className="flex justify-center gap-4 animate-slide-up-delay-2">
-<a href="https://just2do.vercel.app/" target="_blank" rel="noopener noreferrer">
+<a href="https://just2d.vercel.app/" target="_blank" rel="noopener noreferrer">
   <button className="bg-purple-500 text-white px-8 py-3 rounded-lg font-semibold hover:bg-purple-600 hover:scale-105 transition-all duration-300 flex items-center gap-2 hover:gap-3">
     Get Started <ArrowRight className="w-5 h-5 transition-transform" />
   </button>
@@ -127,7 +127,7 @@ function App() {
           <p className="text-purple-100 mb-8 max-w-2xl mx-auto">
             Join thousands of users who have transformed their productivity with Task2Do.
           </p>
-<a href="https://just2do.vercel.app/" target="_blank" rel="noopener noreferrer">
+<a href="https://just2d.vercel.app/" target="_blank" rel="noopener noreferrer">
   <button className="bg-purple-500 text-white px-8 py-3 rounded-lg font-semibold hover:bg-purple-600 hover:scale-105 transition-all duration-300 flex items-center gap-2 hover:gap-3">
     Get Started <ArrowRight className="w-5 h-5 transition-transform" />
   </button>
