@@ -106,13 +106,13 @@ function App() {
                 </div>
               </div>
             </div>
-            <div className="relative">
+            /*<div className="relative">
               <div className="absolute inset-0 bg-gradient-to-t from-gray-900 to-transparent z-10 md:hidden"></div>
              <img
   src="/cover.png"
   alt="Task2Do Mobile App"
   className="rounded-lg shadow-2xl ring-1 ring-purple-400/20 transform hover:scale-105 transition-transform duration-500"
-/>
+/>*/
 
             </div>
           </div>
