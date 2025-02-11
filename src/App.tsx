@@ -9,13 +9,13 @@ function App() {
         <div className="text-center animate-fade-in">
           <h1 className="text-5xl md:text-6xl font-bold text-white mb-6 animate-slide-up">
             Organize your life with
-            <span className="text-purple-400 inline-block hover:scale-105 transition-transform duration-300"> Task2Do</span>
+            <span className="text-purple-400 inline-block hover:scale-105 transition-transform duration-300">Stuff2Do</span>
           </h1>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto mb-8 animate-slide-up-delay">
             The simple, intuitive way to manage your tasks. Stay organized, focused, and accomplish more every day.
           </p>
           <div className="flex justify-center gap-4 animate-slide-up-delay-2">
-<a href="https://mytask2do.vercel.app" target="_blank" rel="noopener noreferrer">
+<a href="https://mystuff2do.vercel.app/" target="_blank" rel="noopener noreferrer">
   <button className="bg-purple-500 text-white px-8 py-3 rounded-lg font-semibold hover:bg-purple-600 hover:scale-105 transition-all duration-300 flex items-center gap-2 hover:gap-3">
     Get Started <ArrowRight className="w-5 h-5 transition-transform" />
   </button>
@@ -41,7 +41,7 @@ function App() {
       <div className="bg-gray-800 py-20">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-3xl font-bold text-white mb-4">Why Choose Task2Do?</h2>
+            <h2 className="text-3xl font-bold text-white mb-4">Why Choose Stuff2Do?</h2>
             <p className="text-gray-300 max-w-2xl mx-auto">
               Designed to help you achieve more with less effort. Our features are carefully crafted to boost your productivity.
             </p>
@@ -75,7 +75,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="space-y-8">
-              <h2 className="text-4xl font-bold text-white">Take Task2Do Everywhere</h2>
+              <h2 className="text-4xl font-bold text-white">Take Stuff2Do Everywhere</h2>
               <p className="text-gray-300 text-lg">
                 Download our mobile app and stay productive on the go. Available for iOS and Android devices(soon).
               </p>
@@ -126,9 +126,9 @@ function App() {
             Ready to get organized?
           </h2>
           <p className="text-purple-100 mb-8 max-w-2xl mx-auto">
-            Join thousands of users who have transformed their productivity with Task2Do.
+            Join thousands of users who have transformed their productivity with Stuff2Do.
           </p>
-<a href="https://mytask2do.vercel.app" target="_blank" rel="noopener noreferrer">
+<a href="https://mystuff2do.vercel.app/" target="_blank" rel="noopener noreferrer">
   <button className="bg-purple-500 text-white px-8 py-3 rounded-lg font-semibold hover:bg-purple-600 hover:scale-105 transition-all duration-300 flex items-center gap-2 hover:gap-3">
     Get Started <ArrowRight className="w-5 h-5 transition-transform" />
   </button>
@@ -143,7 +143,7 @@ function App() {
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center gap-2 mb-4 md:mb-0">
               <Shield className="w-6 h-6 text-purple-400" />
-              <span className="font-bold text-xl text-white">Task2Do</span>
+              <span className="font-bold text-xl text-white">Stuff2Do</span>
             </div>
             <div className="flex gap-8 text-gray-400">
               <a href="#" className="hover:text-purple-400 transition-colors duration-300">About</a>
@@ -153,7 +153,7 @@ function App() {
             </div>
           </div>
           <div className="mt-8 text-center text-gray-500">
-            © 2024 Task2Do. All rights reserved.
+            © 2024 Stuff2Do. All rights reserved.
           </div>
         </div>
       </footer>
