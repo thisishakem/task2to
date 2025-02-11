@@ -31,7 +31,7 @@ function App() {
         <div className="mt-16 rounded-lg shadow-2xl overflow-hidden ring-1 ring-purple-400/20 transform hover:scale-[1.02] transition-transform duration-500">
           <img
             src="https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&w=2400&q=80"
-            alt="Task2Do App Preview"
+            alt="Stuff2Do App Preview"
             className="w-full object-cover"
           />
         </div>
