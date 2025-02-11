@@ -153,7 +153,7 @@ function App() {
             </div>
           </div>
           <div className="mt-8 text-center text-gray-500">
-            © 2024 Stuff2Do. All rights reserved.
+            © 2025 Stuff2Do. All rights reserved.
           </div>
         </div>
       </footer>
